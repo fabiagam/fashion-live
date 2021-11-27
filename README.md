@@ -8,8 +8,8 @@ We are  building a premier platform for finding out about and buying the latest 
 
 # PART I: Download & Build on local
 
-## Method 1: From github
-### 1) Clone the repository, install node packages  and runonly one npm command
+## Step 1: From github
+### 1) Clone the repository and run only one npm command
 
 ``` 
 //on local
@@ -17,3 +17,18 @@ git clone https://github.com/fabiagam/fashion-live
 cd fashion-live
 npm run build
 ```
+
+## Step 2: Install REST client extension  to vscode or installand launch Postman
+### 1) Launch and test API endpoints on postman or Thunder Client (Thunder
+
+``` 
+Ensure you launch postman on your machine and enter the required endpoints for manual testing
+
+`/POST  http://127.0.0.1:6000/inventory/`   
+`/POST http://127.0.0.1:6000/show/:show_id/buy_item/:item_id`   
+`/GET  http://127.0.0.1:6000/show/:show_id/sold_items/:item_id` 
+```
+Kindly refer to  **/data/seed_run.js** for sample data to use.
+
+
+# PART II: WorkFlowDiagramand Screenshoots
