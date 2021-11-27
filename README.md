@@ -24,8 +24,8 @@ cd fashion-live
 npm run build
 ```
 
-## Step 2: Install REST client extension  to vscode or installand launch Postman
-### 1) Launch and test API endpoints on postman or Thunder Client (https://www.thunderclient.io/)
+## Step 2: Install REST client extension on vscode or install and launch Postman
+### 1) Launch and test API endpoints on Postman  (https://postman.co) or Thunder Client (https://www.thunderclient.io/)
 
 ``` 
 Ensure you launch postman on your machine and enter the required endpoints for manual testing
@@ -35,7 +35,6 @@ Ensure you launch postman on your machine and enter the required endpoints for m
 `/GET  http://127.0.0.1:6000/show/:show_id/sold_items/:item_id` 
 ```
 Kindly refer to  **/data/seed_run.js** for sample data to use.
-
 
 
 # PART II: Process Flow Diagram and Screenshoots
