@@ -31,4 +31,14 @@ Ensure you launch postman on your machine and enter the required endpoints for m
 Kindly refer to  **/data/seed_run.js** for sample data to use.
 
 
-# PART II: WorkFlowDiagramand Screenshoots
+
+# PART II: Process Flow Diagram and Screenshoots
+Here are test screenshotsand results obtained after Test-DrineApproach was put to use:
+
+![inventory_post](https://user-images.githubusercontent.com/1788922/143665537-dcfefb52-ad77-48db-9ea3-9630967668e8.png)
+
+
+![unit_tes_part2](https://user-images.githubusercontent.com/1788922/143665547-d511bace-7c5d-417a-8067-2265c583fd17.png)
+
+
+![unit_test_part1](https://user-images.githubusercontent.com/1788922/143665551-b79b9cc6-ca68-4440-b826-48487b3cf0bf.png)
