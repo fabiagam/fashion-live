@@ -4,7 +4,13 @@ We are  building a premier platform for finding out about and buying the latest 
 ## Steps and Instructions
 
 **Note**  
-`Kindly ensure the machine to be used in launching this project  has NodeJS >= v14.6 and npm 8.1.0 already installed.
+Kindly ensure the machine to be used in launching this project  has NodeJS >= v14.6 and npm 8.1.0 already installed.
+
+**Stack Requirements**  
+```
+1. NodeJs 14.6 or >= and npm 8.1.0
+2. Sqlite
+```
 
 # PART I: Download & Build on local
 
@@ -19,7 +25,7 @@ npm run build
 ```
 
 ## Step 2: Install REST client extension  to vscode or installand launch Postman
-### 1) Launch and test API endpoints on postman or Thunder Client (Thunder
+### 1) Launch and test API endpoints on postman or Thunder Client (https://www.thunderclient.io/)
 
 ``` 
 Ensure you launch postman on your machine and enter the required endpoints for manual testing
@@ -42,3 +48,7 @@ Here are test screenshotsand results obtained after Test-DrineApproach was put t
 
 
 ![unit_test_part1](https://user-images.githubusercontent.com/1788922/143665551-b79b9cc6-ca68-4440-b826-48487b3cf0bf.png)
+
+
+![process-flow-1](https://user-images.githubusercontent.com/1788922/143665774-132be378-c44d-47e1-9c89-a25a2ac6a62f.png)
+
